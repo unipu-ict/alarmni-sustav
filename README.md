@@ -1,4 +1,4 @@
-# alarmni-sustav-iot+mobapp
+# alarmni-sustav-iotapp+mobapp
 Mobilna aplikacija za primanje dojava alarmnog sustava (zasnovanog na RPi3 i PIR senzoru).
 
 ### Autori (2017./2018.)
