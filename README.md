@@ -1,6 +1,9 @@
 # alarmni-sustav (iotapp+mobapp)
 Mobilna aplikacija za primanje dojava alarmnog sustava (zasnovanog na RPi3 i PIR senzoru).
 
+Uz mobile i thing modul, potrebno je dodati i biblioteku za upravljanje web kamerom (https://github.com/openxc/android-webcam, Christopher Peplin).
+Također, nakon kreiranje Firebase projekta, dodati google-services.json datoteku u Android Studio projekt na razinu modula (ista datoteka za mobile i thing).
+
 ![alt text](mobapp.png)
 
 ### Autori (2017./2018.)
